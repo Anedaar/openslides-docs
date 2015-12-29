@@ -29,7 +29,7 @@ Verwendung der Linux/MacOS-Version
 ----------------------------------
 
 Laden Sie die aktuelle OpenSlides Version für Linux/MacOS von
-http://openslides.org oder über den Python Package Index (PyPI) (``$ pip
+http://openslides.org oder über den Python Package Index (PyPI) (``$ sudo pip
 install openslides``) herunter. Die Installationsanleitung für diese
 Version finden Sie in der beiliegenden README.rst. Folgen Sie den
 Anweisungen der Anleitung.
